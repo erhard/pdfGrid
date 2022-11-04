@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "description": "Example how to use pdfGrid with jsPdf",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "erhard",
+  "license": "MIT",
+  "dependencies": {
+    "jspdf": "^2.5.1"
+  }
+}
